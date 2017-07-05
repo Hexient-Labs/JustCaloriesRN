@@ -1,0 +1,129 @@
+---
+- - :whitelist
+  - MIT
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2017-07-05 19:07:22.160124000 Z
+- - :whitelist
+  - ISC
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2017-07-05 19:07:29.651768000 Z
+- - :whitelist
+  - ruby
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2017-07-05 19:07:31.713579000 Z
+- - :whitelist
+  - Simplified BSD
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2017-07-05 19:07:39.938095000 Z
+- - :whitelist
+  - Apache 2.0
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2017-07-05 19:07:45.289587000 Z
+- - :whitelist
+  - Unlicense
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2017-07-05 19:08:06.188218000 Z
+- - :whitelist
+  - New BSD
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2017-07-05 19:08:40.644759000 Z
+- - :whitelist
+  - WTFPL
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2017-07-05 19:08:54.352127000 Z
+- - :whitelist
+  - LGPL
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2017-07-05 19:09:28.226086000 Z
+- - :whitelist
+  - BSD
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2017-07-05 19:09:33.473572000 Z
+- - :license
+  - ua-parser-js
+  - MIT
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2017-07-05 19:09:56.011502000 Z
+- - :license
+  - pdx-expression-parse
+  - MIT
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2017-07-05 19:10:06.294969000 Z
+- - :license
+  - path-is-inside
+  - MIT
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2017-07-05 19:10:13.566817000 Z
+- - :license
+  - amdefine
+  - MIT
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2017-07-05 19:10:22.473110000 Z
+- - :license
+  - optimist
+  - MIT
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2017-07-05 19:10:40.011875000 Z
+- - :license
+  - spdx-expression-parse
+  - MIT
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2017-07-05 19:11:09.083046000 Z
+- - :whitelist
+  - LGPL-2.1+
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2017-07-05 19:11:20.391594000 Z
+- - :license
+  - escape
+  - MIT
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2017-07-05 19:13:13.282523000 Z
+- - :whitelist
+  - Public Domain
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2017-07-05 19:13:25.419829000 Z
+- - :license
+  - watch
+  - Apache 2.0
+  - :who: 
+    :why: 
+    :versions: []
+    :when: 2017-07-05 19:14:18.794923000 Z
